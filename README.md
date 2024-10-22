@@ -1,6 +1,3 @@
-Here's the complete `README.md` content in a single code block, ready for you to copy:
-
-```markdown
 # CRUD Application
 
 This is a simple CRUD (Create, Read, Update, Delete) application built with Angular 17. It allows users to manage data efficiently through a user-friendly interface.
@@ -64,19 +61,3 @@ Open your web browser and navigate to `http://localhost:4200/` to view the appli
 - [Angular](https://angular.io/) - The web framework used
 - [Node.js](https://nodejs.org/) - JavaScript runtime
 - [npm](https://www.npmjs.com/) - Package manager
-
-## Contributing
-
-If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Angular team for creating a fantastic framework!
-- All contributors who have made this application possible.
-
-Feel free to reach out if you have any questions or issues!
-```
